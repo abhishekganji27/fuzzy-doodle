@@ -13,3 +13,4 @@ Commands:
 <br>
 git add [file_name]
 git commit -m "your message, its optional"
+git push origin main
